@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jorge Várguez
 
-<!--
-**Jorge-Varguez-Suarez/Jorge-Varguez-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at **Universidad Autónoma de Yucatán** (graduating December 2027) and **Software Development Intern at EFISYS**, working on a production card-payments platform.
 
-Here are some ideas to get you started:
+### What I work on
+- Backend development with Java, Spring MVC and MySQL 8: stored procedures, schema design and API contracts
+- Front-end development with React 19 and Vite
+- Cloud services on AWS: RDS, S3, SNS and DynamoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Solving algorithm problems daily on Codeforces (C++)
+- Preparing for the AWS Certified Cloud Practitioner exam
+
+### Tech stack
+- **Languages:** Java · JavaScript · C++ · Python · SQL
+- **Backend:** Spring MVC · Node.js / Express · MySQL 8
+- **Frontend:** React · Vite
+- **Cloud & tools:** AWS · Git · Linux · Tomcat
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/jorge-varguez-suarez) · jogavarguez@gmail.com
+
+*Open to Summer 2027 software engineering internships.*
