@@ -19,5 +19,3 @@ Software Engineering student at **Universidad Autónoma de Yucatán** (graduatin
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/jorge-varguez-suarez) · jogavarguez@gmail.com
-
-*Open to Summer 2027 software engineering internships.*
